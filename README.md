@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lorenzo! <br/><a href="https://github.com/renzoleki03"></a>, <a href="(https://www.linkedin.com/in/lorenzo-michaud-2419941a9/)">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Lorenzo! <br/><a href="https://github.com/renzoleki03"></a><a href="(https://www.linkedin.com/in/lorenzo-michaud-2419941a9/)">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
